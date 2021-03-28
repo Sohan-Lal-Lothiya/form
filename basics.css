@@ -1,0 +1,84 @@
+h1{
+  color: green;
+}
+#pik{
+  color: red;
+}
+body{
+  background-color: #E0FFFF;
+}
+p{
+  color: tomato;
+}
+#first{
+  color: maroon;
+}
+#fn{
+  color: midnightblue;
+  background-color: lightgrey;
+}
+#last{
+  color: maroon;
+}
+#ln{
+  color: midnightblue;
+  background-color: lightgrey;
+}
+#mail{
+  color: maroon;
+}
+#Email{
+  color: midnightblue;
+  background-color: lightgrey;
+}
+#pword{
+  color: maroon;
+}
+#Pass{
+  color: midnightblue;
+  background-color: lightgrey;
+}
+#roll{
+  color: maroon;
+}
+#Roll{
+  color: midnightblue;
+  background-color: lightgrey;
+}
+#pro{
+  color: maroon;
+}
+#programme{
+  color: midnightblue;
+  background-color: lightgrey;
+}
+#yes{
+  color: maroon;
+}
+#no{
+  color: maroon;
+}
+#submit{
+  color: white;
+  background-color: purple;
+}
+#credit{
+  color: purple;
+}
+#pay{
+  color: purple;
+}
+#Y{
+  background-color: lightgrey;
+}
+#N{
+  background-color: lightgrey;
+}
+#sel{
+  color: purple;
+  background-color: lightgrey;
+}
+.full{
+  border: 1px solid black;
+  background-color: lightblue;
+}
